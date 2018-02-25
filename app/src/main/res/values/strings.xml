@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hansa Mustada_1202144142_MODUL3</string>
+
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_user">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="error_incorrect_password_email">Email/password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
